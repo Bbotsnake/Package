@@ -1,0 +1,39 @@
+.Welcome {
+    text-align: center;
+    color: goldenrod 
+}
+html,body {
+    background-image:    url(soviet_union_PNG52.png);
+    background-color: red;
+    background-position: center center;
+    background-repeat:   no-repeat;
+    background-size:     cover; 
+}
+
+
+/* From here it is not my code suka blyat
+
+/* Add a black background color to the top navigation */
+
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: goldenrod;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: red;
+    color: goldenrod;
+  }
